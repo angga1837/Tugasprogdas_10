@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//Jundi Erlangga Luhur prawira
+//25/561570/TK/63456
 struct studentType{
     string studentFname;
     string studentLname;
@@ -47,4 +48,5 @@ void highestscore(int n){
 int main(){
     readtoarray(20);
     highestscore(20);
+
 }
